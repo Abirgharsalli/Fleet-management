@@ -1,0 +1,15 @@
+.mapp{
+  flex: 4;
+  padding: 20px;
+ 
+}
+.map-container {
+  
+  width: 90%;
+  height: 90%;
+  padding: 20px;
+  border-radius: 20px;
+  margin-left: 70px;
+ 
+ 
+ }
